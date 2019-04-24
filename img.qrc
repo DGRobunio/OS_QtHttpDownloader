@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="cancel">images/cancel.svg</file>
+        <file alias="delete">images/delete.svg</file>
+        <file alias="exit">images/exit.svg</file>
+        <file alias="new">images/new.svg</file>
+        <file alias="open">images/open.svg</file>
+        <file alias="preference">images/preference.svg</file>
+        <file alias="start">images/start.svg</file>
+        <file alias="pause">images/pause.svg</file>
+    </qresource>
+</RCC>
